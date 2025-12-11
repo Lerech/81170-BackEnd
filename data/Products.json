@@ -1,0 +1,23 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Bichy Cola",
+        "precio": 2500
+    },
+    {
+        "id": 2,
+        "nombre": "Bichy Cola sin azucar",
+        "precio": 2300
+    },
+    {
+        "id": 3,
+        "nombre": "Manaos",
+        "precio": 2300
+    },
+    {
+        "id": 4,
+        "nombre": "Manaos light",
+        "precio": 1800
+    }
+]
